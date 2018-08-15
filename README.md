@@ -9,7 +9,7 @@ $ swift -config swift.conf blast.swift -d=testDB -i=sequence.seq -n=64
 
 This uses the fastasplitn and blastmerge tools from David Mathog's parallelblast package:
 
-http://saf.bio.caltech.edu/pub/software/molbio/parallelblast_2.0.10.tar.gz
+http://saf.bio.caltech.edu/pub/software/molbio/parallelblast_2.0.9.tar.gz
 
 Reference:
 
